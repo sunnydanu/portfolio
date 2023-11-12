@@ -270,7 +270,7 @@ const achievementSection = {
       image: require("./assets/images/cgAppreciationLogo.png"),
       imageAlt: "Customer Delight",
       footerLink: [
-        {name: "Certification", url: "https://1drv.ms/f/s!Aokvs8zE9KRrreorBTOauLElQT8crQ?e=luxjP0"},
+        {name: "Certification", url: "https://1drv.ms/b/s!Aokvs8zE9KRrreov-G98a13OuBkn7w?e=mHhwjv"},
       ]
     }
   ],
